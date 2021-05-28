@@ -1,0 +1,1 @@
+﻿11;4;(obiect,1,10,6,10,1);(programare,0,0,9,9,1);(orientata,1,0,1,8);(proiect,5,0,5,6,1)

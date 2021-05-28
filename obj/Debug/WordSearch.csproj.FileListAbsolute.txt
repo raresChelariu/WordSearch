@@ -1,0 +1,13 @@
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.FormConfiguration.resources
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.FormGame.resources
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.FormMain.resources
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.cache
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Rares\source\repos\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\Rares\source\repos\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\Rares\source\repos\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\WordSearch\obj\Debug\WordSearch.FormHighscores.resources
